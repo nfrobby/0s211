@@ -2,3 +2,7 @@
 ZCZC W01 Night1010
 ZCZC W01 Pinatnat
 ZCZC W01 nisadn
+
+ZCZC W02 Night1010
+ZCZC W02 Pinatnat
+ZCZC W02 nisadn
