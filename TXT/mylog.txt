@@ -39,6 +39,7 @@ ZCZC W02 30 Github related
 
 ZCZC W03 120 L02 Zoom session
 ZCZC W03 30 L03 Github Related
+ZCZC W03 20 L05 GSGS
 ZCZC W03 10 L01 Scele related
 ZCZC W03 60 L11 Assignment #1
 ZCZC W03 45 L12 Assignment #2
