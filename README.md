@@ -7,3 +7,5 @@
 [Week 02](https://nfrobby.github.io/os211/W02)
 
 [Week 03](https://nfrobby.github.io/os211/W03)
+
+[Week 04](https://nfrobby.github.io/os211/W04)
