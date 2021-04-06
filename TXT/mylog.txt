@@ -63,3 +63,13 @@ ZCZC W04 4  L18 Assignment #8
 ZCZC WO4 20 L21 pop quiz
 ZCZC W04 20 L23 DISCORD
 ZCZC W04 15 L15 Assignment #5
+
+ZCZC W05 120 L02 Weekly zoom
+ZCZC W05 100 L05 Assignment LOW MEMORY #5
+ZCZC W05 80 L12 Assignment #2
+ZCZC W05 30 L06 Assignment #6
+ZCZC W05 50 L05 Assignment #5
+ZCZC W05 120 L05 GSGS 
+ZCZC W05 60 L11 Assignment #1
+ZCZC W05 120 L03 Assignment #3
+ZCZC W05 60 L14 Assignment #4
