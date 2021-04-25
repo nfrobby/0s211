@@ -11,3 +11,6 @@
 [Week 04](https://nfrobby.github.io/os211/W04)
 
 [Week 05](https://nfrobby.github.io/os211/W05)
+
+[Week 06](https://nfrobby.github.io/os211/W06)
+
