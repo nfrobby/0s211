@@ -14,5 +14,5 @@
 
 [Week 06](https://nfrobby.github.io/os211/W06)
 
-[Week 06](https://nfrobby.github.io/os211/W07)
+[Week 07](https://nfrobby.github.io/os211/W07)
 
