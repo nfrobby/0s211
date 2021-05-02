@@ -74,11 +74,6 @@ ZCZC W05 60 L11 Assignment #1
 ZCZC W05 120 L13 Assignment #3
 ZCZC W05 60 L14 Assignment #4
 
-<<<<<<< HEAD
-=======
-ZCZC W06 
-=======
->>>>>>> 00c55d1db80f527d7dac469231123d91071a92e9
 ZCZC W06 20 L01 SCELE related
 ZCZC W06 20 L04 GitHub Pages
 ZCZC W06 30 L08 Trying something new
@@ -87,7 +82,6 @@ ZCZC W06 120 Discord
 ZCZC W06 80 L25 C-language: mencoba melakukan input-output
 ZCZC W06 120 L26 Watching
 ZCZC W06 80 L22 nonotn youtube
-<<<<<<< HEAD
 
 ZCZC W07 112 L02 ZOOM : class
 ZCZC W07 20 L01 SCELE related
@@ -100,7 +94,3 @@ ZCZC W07 45 L14 Assigment #4
 ZCZC W07 20 L15 Assignment #5
 ZCZC W07 5 L16 Assigment #6
 ZCZC W07 180 discussion discord about dummy
-
-=======
-ZCZC W06 120 L05 GSGS
->>>>>>> 00c55d1db80f527d7dac469231123d91071a92e9
