@@ -82,7 +82,6 @@ ZCZC W06 120 Discord
 ZCZC W06 80 L25 C-language: mencoba melakukan input-output
 ZCZC W06 120 L26 Watching
 ZCZC W06 80 L22 nonotn youtube
-<<<<<<< HEAD
 
 ZCZC W07 112 L02 ZOOM : class
 ZCZC W07 20 L01 SCELE related
@@ -104,6 +103,7 @@ ZCZC W08 45 L05 GSGS
 ZCZC W08 250 L13 Assignment #3: Linux From Scratch Chapter 1-4
 ZCZC W08 10 L14 Assignment #4: tarball
 ZCZC W08 15 L15 Assignment #5: Update mylog.txt
+<<<<<<< HEAD
 ZCZC W08 5 L16 Assignment #6: SHA256SUM and signi
 
 ZCZC W09 120 L02 kelas zoom
@@ -116,3 +116,6 @@ ZCZC W09 360 L14 Assignment #4
 ZCZC W09 10 L15 Assignment #5
 ZCZC W09 15 L16 Assignment #6
 ZCZC W09 5 17 Assignment #7
+=======
+ZCZC W08 5 L16 Assignment #6: SHA256SUM and sign
+>>>>>>> 60575f2bf4bf7d49fde53f2b6980cef9d96e32d5
